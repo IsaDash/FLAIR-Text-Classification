@@ -1,0 +1,704 @@
+__label__nan	The implications of a success here could be major: nuclear fusion can
+__label__nan	a trainer job. So, for instance, Tesla: You can see that the carmaker is
+__label__nan	same conclusions. In contrast, a well-applied algorithm in a computer with
+__label__nan	 
+__label__nan	accurate. (_ ÛÏA Brief History of AI.Û) _Importance should be placed on
+__label__Artificial Intelligence	Artificial intelligence creates 'self-learning attackers' - ITWeb: Artificial intelligence creates 'self-learning a... https://t.co/7dq3Ro39VQ
+__label__nan	Leading the work, Assistant Professor of Epidemiology and Data Science, Dr
+__label__nan	In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen 
+__label__nan	
+__label__nan	predicting cardiovascular disease than an established algorithm used in
+__label__Cloud	Mainframes: The Cloud Before the Cloud https://t.co/RBcEW4y9Fm #CloudComputing #ibm https://t.co/2dScBUMbv9
+__label__nan	In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen 
+__label__nan	Rules for Life](https://www.jordanbpeterson.com/12-rules-for-life/)_. The
+__label__nan	juggling columns for outlets like _The Guardian_ , a speaking circuit, an
+__label__nan	    If you like THREELLY SMARTVIEW, please help spread the word by giving it a 5 star rating here ;)
+__label__nan	 _Consumers often times wonder why they see ads targeted specifically to their
+__label__Cloud	<p>The following should do the trick:</p><pre><code>exports.quarter = functions.https.onRequest((req, res) =&gt; {  let user1 = admin    .database()    .ref('users/user1/userDetails')    .once('value');  let user2 = admin    .database()    .ref('users/user2/userDetails')    .once('value');  let user3 = admin    .database()    .ref('users/user3/userDetails')    .once('value');  let user4 = admin    .database()    .ref('users/user4/userDetails')    .once('value');  Promise.all([user1, user2, user3, user4])    .then(result =&gt; {      let data = {};      result[0].forEach(action =&gt; {        data['users/user1/userDetails/' + action.key + '/' + 'Rating'] = 0;      });      result[1].forEach(action =&gt; {        data['users/user2/userDetails/' + action.key + '/' + 'Rating'] = 0;      });      result[2].forEach(action =&gt; {        data['users/user3/userDetails/' + action.key + '/' + 'Rating'] = 0;      });      result[3].forEach(action =&gt; {        data['users/user4/userDetails/' + action.key + '/' + 'Rating'] = 0;      });      console.log(data);      return admin        .database()        .ref()        .update(data);    })    .then(data =&gt; {      return res.send('done');    })    .catch(error =&gt; {      return res.status(500).send(error);    });});</code></pre>
+__label__nan	
+__label__nan	
+__label__nan	workload (books, speeches, columns, tweets). Yet he continues to host his own
+__label__Cloud	"<p>The command <code>gcloud compute instances list</code> does not show the instances creation time by default. But the <a href=""https://cloud.google.com/sdk/gcloud/reference/topic/formats"" rel=""nofollow noreferrer"">gcloud <code>--format</code> flag</a> can change the default output displayed.</p><p><code>gcloud compute instances list --format=""table(name,creationTimestamp)""</code></p><p>It is also possible to retrieve the instance creation time from the <a href=""https://cloud.google.com/sdk/gcloud/reference/compute/instances/describe#GCLOUD-WIDE-FLAGS"" rel=""nofollow noreferrer"">gcloud compute describe command</a>:</p><pre><code>gcloud compute instances describe yourInstance --zone=yourInstanceZone | grep creationTimestamp</code></pre><p>Or:</p><pre><code>gcloud compute instances describe yourInstance --zone=yourInstanceZone --flatten=creationTimestamp</code></pre>"
+__label__Artificial Intelligence	_**Summary:** Artificial intelligence technology is able to objectively
+__label__nan	generate energy. This takes place in what is called a magnetic fusion machine,
+__label__nan	
+__label__Cloud	You seem to be using cloud connector.In which case, you would need a connectivity service. Edit your question accordingly.
+__label__nan	#AIT...
+__label__nan	|
+__label__nan	WhatÛªs the future and why it is up to us by _Tim OÛªReilly_ ÛÓ
+__label__Cloud	Data Means Cloud and Cloud Means Security - How SMBs are Enjoying Cloud Computing#Infoblaze #India #Business #SMB... https://t.co/bmrYC8SxA1
+__label__nan	3\. Robots: Presently, robots do not have emotions, but in future robots may
+__label__nan	billion economic increase in output as a result of the investments theyÛªre
+__label__nan	
+__label__Artificial Intelligence	RT @inter_mkt: Artificial intelligence - See on Wikipedia
+__label__nan	 
+__label__nan	dataset_id = 'bitcoindata' # or whatever you choose
+__label__nan	
+__label__nan	ongoing purpose. One example of the use of artificial intelligence is market
+__label__Cloud	RT @alertlogic: Cloud Security: Enabling Secure Cloud Deployment https://t.co/AwlCMoIErk #cloudcomputing #cloudsecurity https://t.co/lwbPOr...
+__label__nan	learning to dance, and I am your programmer, I instructed you with clearly
+__label__nan	useful in a tight election, when one candidate could create fake videos
+__label__nan	personalized digital advertisements.
+__label__nan	
+__label__nan	intelligence-revolution-1.html>
+__label__nan	
+__label__nan	informed about the school by Head of Sberbank German Gref and school Principal
+__label__nan	board/putyatinskiy-sergey-evgenevich). ÛÏActive use of AI technology will be a
+__label__Cloud	"<p>I want to send data from my javascript web page to firebase cloud function (HTTP Request).</p><p>I have seen a few tutorials on using Busboy, but that is at the cloud function side. What I want to know is how do I send it to the function from client side web page.</p><p>As given in the Google Cloud Functions <a href=""https://cloud.google.com/functions/docs/writing/http#multipart_data"" rel=""nofollow noreferrer"">Documentation</a>, I have used the following code in my Firebase Function.</p><pre><code>...busboy.on('field', (fieldname, val) =&gt; {    // TODO(developer): Process submitted field values here    console.log(`Processed field ${fieldname}: ${val}.`);    fields[fieldname] = val;  });...</code></pre><p>Thanks in advance.</p>"
+__label__nan	might be that you have a person with a marketing background or an operations
+__label__nan	network and speech generation
+__label__nan	AI could be a useful sparring partner for college debaters in training, or
+__label__nan	1\. Automated transportation: Self driving vehicles will be a common thing in
+__label__nan	they have learned regarding previous tasks. (Photo Credit: U.S. Army
+__label__nan	natural language processing in unique ways to combat fraud and money
+__label__nan	based on their personal interests. Artificial intelligence can be used to
+__label__nan	[regression](https://en.wikipedia.org/wiki/Regression_analysis) _(predict a
+__label__Cloud	"IBM BrandVoice: In The ""Second Wave"" Of Cloud Computing, Hybrid Cloud Is The Innovator's Choice: In the cloud busin... https://t.co/ap5IG44jFi"
+__label__nan	
+__label__nan	
+__label__nan	of evolution
+__label__Cloud	"<p>I have written this function and tested. May be helpful.</p><pre><code>    private void subscribeToMessaging(){        SharedPreferences prefs = getSharedPreferences(SETTINGS_TITLE, MODE_PRIVATE);// Getting value from shared preferences        boolean isSubscriptionEnable = prefs.getBoolean(SETTING_NOTIFICATION, true);// if ""isSubscriptionEnable"" is true then check whether its already subscribed or not        if (isSubscriptionEnable){            boolean alreadySubscribed = prefs.getBoolean(SETTING_ALREADY_SUBSCRIBED, false);// if not already subscribed then subscribe to topic and save value to shared preferences            if (!alreadySubscribed){                FirebaseMessaging.getInstance().subscribeToTopic(""global"");                SharedPreferences.Editor editor = getSharedPreferences(SETTINGS_TITLE, MODE_PRIVATE).edit();                editor.putBoolean(SETTING_ALREADY_SUBSCRIBED, true);                editor.apply();                Toast.makeText(this, ""Subscribed"", Toast.LENGTH_LONG).show();            } else {                Toast.makeText(this, ""Already subscribed"", Toast.LENGTH_LONG).show();            }        }    }</code></pre><p>Don't forget to write these lines above onCreate()</p><pre><code>    public static final String SETTINGS_TITLE = ""settings"";    public static final String SETTING_NOTIFICATION = ""notification_state"";    public static final String SETTING_ALREADY_SUBSCRIBED = ""already_subscribed"";</code></pre>"
+__label__nan	
+__label__nan	technique, called random forests, that has the ability to ÛÏlearnÛ how to
+__label__nan	associate professor of psychology at the New School for Social Research.
+__label__Artificial Intelligence	New Artificial Intelligence Breast Imaging Technology Demonstrates Profound Potential - Artificial Intelligence https://t.co/b0Jd4CMHza #ai
+__label__nan	understand the overall context of the system ÛÓ the environmental conditions,
+__label__nan	
+__label__nan	encouraging.
+__label__nan	InternationalÛªs Speech Technology and Research (STAR) Laboratory. ÛÏThe
+__label__nan	8
+__label__nan	
+__label__nan	arguments -- including those written in essay form.
+__label__nan	sort of lifestyle brand for the brain. Other thought leaders like her include
+__label__nan	
+__label__nan	
+__label__Cloud	New stuff from Google...Web Risk API, Cloud Armor &amp; Cloud HSM
+__label__nan	 **6\. Enhanced Automation** : AI can performs intensive human labour easily
+__label__Artificial Intelligence	RT @into_AI: Ethics Guidelines for Artificial Intelligence - Artificial Intelligence (AI) i https://t.co/xX0LfHo6i6 #ai
+__label__nan	In this podcast, Ann Cairns, Executive Vice Chairman of Mastercard discusses
+__label__Artificial Intelligence	Can artificial intelligence improve aerial dogfighting? - C4ISRNet: Can artificial intelligence improve aerial dogf... https://t.co/5wVpJ8g0eR
+__label__nan	#### Generate Hashtags using Artificial Intelligence
+__label__Artificial Intelligence	Artificial Intelligence Powering Boom in Israel's Digital Health Sector - Forbes: Artificial Intelligence Powering... https://t.co/GAsnXFAgvd
+__label__Artificial Intelligence	Impact of Artificial Intelligence in Cryptocurrency Trading - TechBullion: Impact of Artificial Intelligence in Cry... https://t.co/JmYFWjaq7e
+__label__Cloud	"<p>You need to add Block Device Mapping for that like this...</p><pre><code> ""BlockDeviceMappings"": [    {      ""DeviceName"": ""/dev/xvda"",      ""Ebs"": {        ""DeleteOnTermination"": true,        ""VolumeType"": ""standard"",        ""VolumeSize"": 16      }    }  ]</code></pre><p>A working example can be found here...</p><p><a href=""https://github.com/shantanuo/cloudformation/blob/master/security.template2.txt"" rel=""nofollow noreferrer"">https://github.com/shantanuo/cloudformation/blob/master/security.template2.txt</a></p>"
+__label__Artificial Intelligence	Setting a precedent in the use of artificial intelligence - Artificial intelligence (AI) c https://t.co/auGPzxVFcy #ai
+__label__Artificial Intelligence	Can Artificial Intelligence Outsmart Citrus' Greatest Enemy? - Growing Produce: Can Artificial Intelligence Outsmar... https://t.co/E1oofifNpa
+__label__nan	International Programming Contest for the eighth year in a row. This year, it
+__label__Artificial Intelligence	SafeCare Magazine Releases Artificial Intelligence Edition SafeCare Magazine Releases Artificial Intelligence Editi... https://t.co/aX5Dur9ERc
+__label__nan	electronic services. The cost of internet service in Russia is one of the
+__label__Artificial Intelligence	Artificial Intelligence #ArtificialIntelligence #bigdata  https://t.co/gYJteYkiPJ
+__label__Artificial Intelligence	RT @inter_mkt: Artificial intelligence - See on Wikipedia
+__label__nan	researchers are not giving up. Computer technology is a natural ally to
+__label__Cloud	Cloud for Africa - Cloud for All #Altron #Microsoft https://t.co/E6GKegvwhu
+__label__nan	2\. Researchers believe that humans will be able to augment themselves with
+__label__Artificial Intelligence	RT @into_AI: Artificial Intelligence to enhance Oil Trade - Artificial Intelligence has be https://t.co/46OS2kXzAM #ai
+__label__Cloud	AWS Cloud security, Cloud performance, Cloud optimization - these are the three critical elements that underline ev... https://t.co/EA5EL6ocOp
+__label__Cloud	<p>I'm using a <code>StreamBuilder</code> with Cloud Firestore data in a <code>Hero</code> tag in my flutter application. Everything works perfectly to go to the next page, but coming back to the page with the <code>StreamBuilder</code> shows no data. Does anyone know a way to fix this? I've heard using <code>initialData</code> with the stream builder works, but I don't know how that works with Cloud Firestore.</p><p><strong>Stream Builder Code:</strong></p><pre><code>StreamBuilder&lt;QuerySnapshot&gt;(  stream: Firestore.instance.collection('my-collection').document('user-id').collection('my-collection-items').snapshots(),  builder: (context, snapshot) {    if (!snapshot.hasData) return _showLoader();    return _buildList(context, snapshot.data.documents);  },),</code></pre>
+__label__nan	an adoption rate of over 25%. Being followed by the United Kingdom, Mexico and
+__label__nan	essentially a collection of biological algorithms shaped by millions of years
+__label__nan	
+__label__nan	
+__label__nan	
+__label__Artificial Intelligence	Can artificial intelligence make learning fun? - Artificial intelligence (AI) m https://t.co/GixXQ8haH7 #ai
+__label__nan	take decisions on their own. However, it is feared by some notable individuals
+__label__Cloud	<p>While running data source as browser mode all request from browser directly goes to data source</p><p>But while choosing server mode request goes from browser to grafana backend (Server node where grafana is installed ) and from there it redirect to data source.</p><p>If you are using server mode then make sure if you are able to access AWS ES url from machine where Grafana is hosted. </p>
+__label__nan	 
+__label__Artificial Intelligence	RT @SuriyaSubraman: First Artificial Intelligence Google Doodle Features Bach - https://t.co/iL3YIJqSJ5: First Artificial Intelligence Goog...
+__label__Cloud	Nerdery is hiring for cloud positions in Phoenix, Minneapolis and Chicago:AWS Cloud ArchitectAzure Cloud Architec... https://t.co/YB3WeSeQKs
+__label__Cloud	Thanks! I know the fact that ARCore Cloud Anchor can last for only 24 hours. For using my own hosting service for cloud anchors, firstly thing that I need to do is to save/serialize it. My question is &#39;is it possible to save/serialize it?&#39; and how.
+__label__nan	developed by Dr. LeCun. In late 2013, Facebook hired the N.Y.U. professor to
+__label__nan	the lack of privacy involved with analyzing user preferences so closely,
+__label__nan	Stanford University
+__label__nan	holistically as:
+__label__nan	#AIT...
+__label__Cloud	Mainframes: The Cloud Before the Cloud - https://t.co/5NYWar9yP9 https://t.co/XGNSDiMtBO via @devopsdotcom... https://t.co/GkcojUnk0V
+__label__nan	
+__label__Artificial Intelligence	German startups use artificial intelligence - Deutsche Welle: German startups use artificial intelligence  Deutsche... https://t.co/Yk9HyeysIu
+__label__nan	"""These techniques can be new to many in health research, and difficult to"
+__label__nan	ÛÏArtificial IntelligenceÛ was coined in 1956.
+__label__Cloud	<p>I'm looking at dataflow to try to export data from Datastore to Spanner. Spanner seems to only accept avro files via a dataflow connector. The only dataflow template I can find is from datastore to text-files. And the datastore export service is only exporting into levelDB format.Any clue would be helpful, Thanks!</p>
+__label__nan	**Method to fetch Bitcoin related trade data**
+__label__nan	learning' to better predict health outcomes. In some situations we may find it
+__label__nan	line command)**
+__label__nan	stored some output related to evaluation in Bigquery
+__label__Artificial Intelligence	BCW Wins 2019 Artificial Intelligence Excellence Award - Artificial Intelligence driven https://t.co/2Oh5Xf9BFD #ai
+__label__nan	making in AI. ThatÛªs significant output. They talk about 16,000 jobs theyÛªre
+__label__nan	
+__label__nan	 
+__label__Cloud	"""Deploy VPN tunnel between Azure cloud and AWS cloud environment""https://t.co/GBJTpj78rH"
+__label__nan	
+__label__nan	
+__label__nan	significantly more accurate in predicting death than the standard prediction
+__label__nan	AutoML Tables for regression __ to predict numbers ÛÒ in this case Bitcoin
+__label__nan	
+__label__Artificial Intelligence	Artificial Intelligence #AI by @7GTech - Three Pioneers in Artificial Intelligence Win Turing Award... https://t.co/pdtySacKHI
+__label__nan	reported a 42% frequency of fraud across small businesses costing an average
+__label__nan	per share compared to the consensus of $1.66 EPS. The company had $3.89
+__label__nan	automating them from scratch with the use of new technology.Û
+__label__nan	and thought provoking self posts.
+__label__nan	sontag-rallies-from-dread-illness-to-enjoy-her-first-commercial-triumph-
+__label__Cloud	<p>Thank you for your responses.</p><p>Metadata server is running on openstack-controller001 :</p><pre><code>[admin@openstack-controller001 ~]$ systemctl status neutron-metadata-agent\u25cf neutron-metadata-agent.service - OpenStack Neutron Metadata Agent   Loaded: loaded (/usr/lib/systemd/system/neutron-metadata-agent.service; enabled; vendor preset: disabled)   Active: active (running) since \u6708 2019-05-20 14:45:59 JST; 23h ago Main PID: 15329 (/usr/bin/python)   CGroup: /system.slice/neutron-metadata-agent.service           \u251c\u250015329 /usr/bin/python2 /usr/bin/neutron-metadata-agent --config-...           \u251c\u250015357 /usr/bin/python2 /usr/bin/neutron-metadata-agent --config-...           \u2514\u250015358 /usr/bin/python2 /usr/bin/neutron-metadata-agent --config-... 5\u6708 20 14:45:59 openstack-controller001.adoc.local systemd[1]: Stopped Open... 5\u6708 20 14:45:59 openstack-controller001.adoc.local systemd[1]: Started Open...Hint: Some lines were ellipsized, use -l to show in full.</code></pre><p>I don't know if my VM can reach 169.254.169.254 server but from network namespace, it does</p><pre><code>[admin@openstack-controller001 ~]$ openstack network list+--------------------------------------+---------------+--------------------------------------+| ID                                   | Name          | Subnets                              |+--------------------------------------+---------------+--------------------------------------+| 838b6191-33d6-4683-958e-cee434518743 | provider      | d524b6e6-24ad-4a28-9482-b03f4bf22690 || c6ed4cfe-43b4-42b7-8fb5-f205a962f9f7 | adoc-net-main | 053681d8-4d5c-4ef4-8be7-f2276d43b26c |+--------------------------------------+---------------+--------------------------------------+[admin@openstack-controller001 ~]$ ip netnsqdhcp-838b6191-33d6-4683-958e-cee434518743 (id: 0)qrouter-3a164855-6c8f-447c-8b0f-49e86d823488 (id: 2)qdhcp-c6ed4cfe-43b4-42b7-8fb5-f205a962f9f7 (id: 1)[root@openstack-controller001 admin]# ip netns exec qdhcp-c6ed4cfe-43b4-42b7-8fb5-f205a962f9f7 ping 169.254.169.254PING 169.254.169.254 (169.254.169.254) 56(84) bytes of data.64 bytes from 169.254.169.254: icmp_seq=1 ttl=64 time=0.046 ms64 bytes from 169.254.169.254: icmp_seq=2 ttl=64 time=0.038 ms64 bytes from 169.254.169.254: icmp_seq=3 ttl=64 time=0.046 ms64 bytes from 169.254.169.254: icmp_seq=4 ttl=64 time=0.048 ms64 bytes from 169.254.169.254: icmp_seq=5 ttl=64 time=0.033 ms</code></pre><p>Is it normal that VM is looking for local metadata server from DHCP server ?</p>
+__label__nan	**Paul Michelman:** So are explainers always an interface between the
+__label__nan	
+__label__Artificial Intelligence	RT @inter_mkt: Artificial intelligence - See on Wikipedia
+__label__nan	
+__label__nan	 
+__label__nan	
+__label__nan	said Jarman in an email. Debating is about more than just finding strong
+__label__nan	The predictive powers of artificial intelligence could help scientists bring
+__label__nan	us worry about that later since we got some time _Ù÷_.
+__label__nan	In 2004, with less than $400,000 in funding from the Canadian Institute for
+__label__nan	weÛªre already seeing this creation of the new jobs going forward, and theyÛªre
+__label__nan	
+__label__Artificial Intelligence	How artificial intelligence can make medicine more human - Artificial Intelligence will m https://t.co/SwIgxPSGMt #ai
+__label__Artificial Intelligence	DeepQuanty Artificial Intelligence Labs launches 'SnapChek' - Finextra: DeepQuanty Artificial Intelligence Labs lau... https://t.co/4JYcMeXpuO
+__label__Artificial Intelligence	RT @into_AI: Artificial Intelligence Podcast: Experts Discuss Critical Trends - Artificial intelligence will d https://t.co/vn4oTOD6dm #ai
+__label__nan	Artificial Intelligence (#AI)... https://t.co/gVxAzukOG9
+__label__nan	
+__label__nan	
+__label__nan	Advanced Research, Dr. Hinton created a research program dedicated to what he
+__label__Cloud	<p>I'm using a python <code>Cloud Function</code> that accesses files in Firebase <code>Storage</code>. I am using <code>urllib.request.urlopen(url)</code> to load the files. However this appears to be relatively slow considering the cloud function and the storage are hosted in the same place. Is there are faster way to do this? Perhaps in the <code>Firebase Admin</code> framework?</p>
+__label__Artificial Intelligence	RT @into_AI: Global Artificial intelligence Market- Industry Trends and Forecast to 2025 - Artificial intelligence https://t.co/yIGfbN50jn...
+__label__Cloud	Do you use the same service principal to log in both in the VSTS and cloud shell?
+__label__nan	
+__label__nan	of how an opponent can interrupt you and force you to become more,Û Yeff
+__label__Artificial Intelligence	RT @MilesDMedina: Artificial Intelligence Colloquium: Physics of Artificial Intelligence https://t.co/AREMqNrBh2
+__label__Artificial Intelligence	Artificial intelligence makes cobot grippers smarter - Artificial Intelligence - HANNOVER MESSE  https://t.co/M9OAWDZm8f #ai #ml #dl
+__label__nan	your point, you canÛªt go hire people for some of these roles, you may need to
+__label__Cloud	[TECH] Microsoft and Oracle link up their Cloud services to take on AWS Cloud: Microsoft Cloud and Oracle Cloud hav... https://t.co/QbZyGpquEL
+__label__Cloud	Managing VMware Cloud on AWS with Cloud Automation Services https://t.co/2vbTCx1col
+__label__Artificial Intelligence	Data stewardship for artificial intelligence - Artificial intelligence (AI) i https://t.co/jvzWknUjog #ai
+__label__Cloud	RT @CloudMakerAI: Want to deploy cloud solutions quickly and accurately? Our Cloud Maker AI can help you draw beautiful cloud architecture...
+__label__nan	1
+__label__nan	need them to learn new things.
+__label__Cloud	"<p>Ever noticed that tiny cogwheel icon, top right?</p><p><a href=""https://i.stack.imgur.com/kXr87.png"" rel=""nofollow noreferrer""><img src=""https://i.stack.imgur.com/kXr87.png"" alt=""screenshot""></a></p>"
+__label__nan	|
+__label__nan	making the leap from theoretical to practical has proved challenging.
+__label__nan	strongly accelerating the computation.
+__label__nan	replicated this level of AI surveillance, Chinese companies are actively
+__label__Artificial Intelligence	Artificial Intelligence and Law - An Overview and History - Artificial Intelligence and La https://t.co/LUs9KW1UYe #ai
+__label__Artificial Intelligence	RT @into_AI: Artificial Intelligence Revolutionizing Technology in India - Artificial Intelligence (AI) i https://t.co/nF35o5Yg8s #ai
+__label__Cloud	"<p>I would like to customize the naming strategy of the Avro schema subjects in Spring Cloud Stream Producers, Consumers and KStreams.</p><p>This would be done in Kafka with the properties <code>key.subject.name.strategy</code> and <code>value.subject.name.strategy</code> -> <a href=""https://docs.confluent.io/current/schema-registry/serializer-formatter.html#subject-name-strategy"" rel=""nofollow noreferrer"">https://docs.confluent.io/current/schema-registry/serializer-formatter.html#subject-name-strategy</a></p><p>In a native Kafka Producer this works:</p><pre><code>private val producer: KafkaProducer&lt;Int, Customer&gt;    init {        val props = Properties()        ...        props[AbstractKafkaAvroSerDeConfig.SCHEMA_REGISTRY_URL_CONFIG] = ""http://localhost:8081""        props[AbstractKafkaAvroSerDeConfig.VALUE_SUBJECT_NAME_STRATEGY] = TopicRecordNameStrategy::class.java.name        producer = KafkaProducer(props)    }    fun sendCustomerEvent(customer: Customer) {        val record: ProducerRecord&lt;Int, Customer&gt; = ProducerRecord(""customer"", customer.id, customer)        producer.send(record)    }</code></pre><p>However I cannot find how to do this in Spring Cloud Stream. So far I have tried this in a producer:</p><pre><code>spring:  application:    name: spring-boot-customer-service  cloud:    stream:      kafka:        bindings:          output:            producer:              configuration:                key:                  serializer: org.apache.kafka.common.serialization.IntegerSerializer                value:                  subject:                    name:                      strategy: io.confluent.kafka.serializers.subject.TopicRecordNameStrategy</code></pre><p>Apparently Spring Cloud uses it's own subject naming strategy with the interface <code>org.springframework.cloud.stream.schema.avro.SubjectNamingStrategy</code> and only one subclass: <code>DefaultSubjectNamingStrategy</code>.</p><p>Is there declarative way of configuring <code>value.subject.name.strategy</code> or are we expected to provide our own <code>org.springframework.cloud.stream.schema.avro.SubjectNamingStrategy</code> implementation and the property <code>spring.cloud.stream.schema.avro.subject-naming-strategy</code>?</p>"
+__label__nan	 
+__label__nan	investigations. But analyses of these systems show the [data on which those
+__label__Artificial Intelligence	Artificial Intelligence Primer for Business Artificial intelligence or AI or Machine Intelligence is a transformati... https://t.co/MTB4aP6IqB
+__label__nan	By the end of the Ûª60s, television commanded our attention further with
+__label__Cloud	"<p>I'm not aware of any ongoing issues but I suggest contacting <a href=""https://cloud.google.com/support/"" rel=""nofollow noreferrer"">Google Cloud Support</a> if the issue persists.</p>"
+__label__Artificial Intelligence	Ethical Dimensions of Using Artificial Intelligence in Health Care - Artificial intelligence (AI), https://t.co/eLobHjuqNj #ai
+__label__Cloud	VMware Cloud on AWS: Get your basics right: Part 2: Cloud Migration https://t.co/UPsDiGM7uC
+__label__nan	messages](https://theconversation.com/solving-the-political-ad-problem-with-
+__label__Artificial Intelligence	Artificial Intelligence Podcast: Experts Discuss Critical Trends - Artificial intelligence will d https://t.co/vn4oTOD6dm #ai
+__label__nan	
+__label__nan	early death due to chronic disease in a large middle-aged population.
+__label__nan	
+__label__nan	**Paul Michelman:** So letÛªs move to the third category: sustainers.
+__label__Artificial Intelligence	Artificial Intelligence (AI) Market 2018 - Asiancrunch - https://t.co/fAjnRAAak2 Artificial Intelligence (AI) Marke... https://t.co/WDpQjMKAax
+__label__nan	Speech samples were obtained from warzoneÛexposed veterans, 52 cases with PTSD
+__label__nan	The AI machine learning models used in the new study are known as 'random
+__label__Artificial Intelligence	Artificial Intelligence Seeing Massive Surge in Education - Campus Technology: Artificial Intelligence Seeing Massi... https://t.co/0DWQC8d02W
+__label__nan	colleagues. Do you have to share all documents containing hundreds of pages to
+__label__nan	### Like this:
+__label__nan	Other applications, apart from games, in which reinforcement learning is
+__label__Artificial Intelligence	RT @into_AI: How Artificial Intelligence is Humanizing HR - Artificial intelligence (AI) i https://t.co/QqT5ljG6lp #ai
+__label__nan	LeCun moved to AT&TÛªs Bell Labs in New Jersey, where he designed a neural
+__label__nan	Jim and I were looking at the advance of AI and the current state of a lot of
+__label__nan	
+__label__nan	2
+__label__nan	"bucket_name = """" # the google cloud bucket name you want"
+__label__nan	In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen 
+__label__nan	 **ÛÒ Why parents should[stop worrying about videogame
+__label__nan	ÛÏThat's not a bad thing, and it's still letting AI enhance our work in
+__label__Cloud	"<p>change these lines:</p><pre><code>transaction.update(gradeDocRef, {    ""UnitGrades"": {    [unitNo]: {    ""CG"": CG,    ""PG"": PG,     ""TG"": TG                                                }});</code></pre><p>for this</p><pre><code>transaction.set(gradeDocRef, {    ""UnitGrades"": {    [unitNo]: {    ""CG"": CG,    ""PG"": PG,     ""TG"": TG    }}, { merge: true });</code></pre><p><strong>It works like this as far as I know:</strong></p><p>assuming you doc looks like this:</p><pre><code> {   ""fantasticsFours"": {     ""thing"": { ... },     ""susan"": { ... },     ""mister"": { ... }   } }</code></pre><p>we need to add <code>{""humanTorch"" :{...}}</code></p><p><strong>With set + merge</strong></p><pre><code>db.collection('heroes').doc(`xxxXXXxxx`).set({  ""fantasticsFours"": {    ""humanTorch"":{ ... }  }}, {merge:true})</code></pre><p>will result in this data:</p><pre><code> {   ""fantasticsFours"": {     ""thing"": { ... },     ""susan"": { ... },     ""mister"": { ... },     ""humanTorch"":{ ... }   } }</code></pre><p><strong>with Update</strong></p><pre><code>db.collection('heroes').doc(`xxxXXXxxx`).update({  ""fantasticsFours"": {    ""humanTorch"":{ ... }  }})</code></pre><p>will result in this data:</p><pre><code> {   ""fantasticsFours"": {     ""humanTorch"":{ ... }   } }</code></pre>"
+__label__nan	
+__label__nan	PROBLEM SOLVING 
+__label__nan	developed over time to be as smart as it seems to be now.
+__label__nan	mobile communications and internet access, as well as for the development of
+__label__Cloud	"<p>Orchestrator is still x86 and the commands in your script will only run in x64.Test this in your x86 ISE and see the same failure.My workaround is to call the script using the ""Run Program"" activity within the System activities list.:</p><p>Program executionComputer = I always start with initialize activity and then subscribe to the computer hereProgram path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exeParameters: full path to the .ps1 of your scriptWorking folder: c:\temp</p>"
+__label__nan	modern world, helping run smartphones, internet search engines, digital voice
+__label__nan	  4. Generating captions using Markov Chains
+__label__Artificial Intelligence	Artificial Intelligence And Other Tech Innovations Are Transforming Dentistry - Forbes: Artificial Intelligence And... https://t.co/fidxjdq3uA
+__label__nan	
+__label__nan	treasure chest of our most intimate data. Information on demand and insights
+__label__nan	think is really important. ThereÛªs a couple other fronts weÛªve launched. One
+__label__nan	Moscow (CBoM)[](https://mkb.ru/en/about/corporate-governance/management-
+__label__nan	In fact, it is a combination of both ÛÓ artificial intelligence as well as
+__label__Cloud	@FrankvanPuffelen So actually you can connect to a Memorystore instance from Cloud Functions now ever since they allowed VPC connections between the two.  But anyway, what&#39;s working locally right now isn&#39;t going to work at all in Cloud Functions, and all network connections are going to be async in JavaScript anyway.
+__label__nan	
+__label__nan	
+__label__nan	**Paul Daugherty:** ThereÛªs another impact on jobs that I think we need to
+__label__nan	interpretation**](https://wrytin.com/tanzilmahmood/anything-you-can-do-ai-can-
+__label__nan	Meanwhile trends like buying online and picking up in store (BOPIS) are really
+__label__nan	condemned](https://www.ft.com/content/5f5916fc-5be3-11e9-939a-341f5ada9d40)
+__label__Artificial Intelligence	RT @into_AI: Artificial Intelligence in Customer Service - Artificial Intelligence in cus https://t.co/9GlRedvLiQ #ai
+__label__nan	**Media Contacts:** 
+__label__Artificial Intelligence	RT @SuriyaSubraman: Walmart Bolsters Artificial Intelligence Efforts - https://t.co/jjSFlcn0XX: Walmart Bolsters Artificial Intelligence Ef...
+__label__Cloud	"RT @MichaelNishiki: IBM BrandVoice: In The ""Second Wave"" Of Cloud Computing, Hybrid Cloud Is The Innovator's Choice: In the cloud business,..."
+__label__Artificial Intelligence	Artificial Intelligence in detecting Cervical Precancers - Artificial Intelligence in det https://t.co/RkGenDTVRa #ai
+__label__nan	suggests, especially as we think about potential job loss at the hands of AI,
+__label__nan	
+__label__Cloud	"<p>I am using the Hase API to connect to Cloud BigTable. I need to filter out the records which are within a particular timeframe. </p><p>The data stored in Cloud BigTable is the following format:</p><pre><code>""12345""  a:b                       @ 2019/04/28-23:21:21.553000    ""ab""  a:c                       @ 2019/04/28-23:21:21.553000    ""ac""  b:d                       @ 2019/04/28-23:21:21.553000    ""bd""</code></pre><p>Trying to fetch data using the Scan operation using the setTimeRange method does not return me any rows. Below is the code for it:</p><pre><code>Scan scan = new Scan(); scan.setTimeRange(1556493680, 1556493690);</code></pre><p>How can I fetch the rows based on the timestamp?</p>"
+__label__nan	
+__label__nan	Fleming said he wants to use the technology to train college debaters in
+__label__Cloud	"That said: you can&#39;t really go wrong with <a href=""https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/"" rel=""nofollow noreferrer"">NoSQL data modeling</a>, and <a href=""https://www.youtube.com/playlist?list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZgZ"" rel=""nofollow noreferrer"">Getting to know Cloud Firestore</a>. :)"
+__label__nan	leadersÛª investment expectations, especially around growth. In our research,
+__label__nan	Almost everyone who uses Apple products is now familiar with AppleÛªs personal
+__label__nan	This new study builds on previous work by the Nottingham team which showed
+__label__nan	### 5\. The Elements of Statistical Learning: Data Mining, Inference, and
+__label__nan	most about the retail experience.
+__label__Cloud	@drwilco Do you know what lack fastly?They build cloud center. So you become cloud center and edge cloud which wil... https://t.co/0OGA53aBPo
+__label__Cloud	<p><code>Promise.all()</code> is returning before any of the promises passed to it are going to finish.  This means <code>data</code> is going to be an empty object has original defined, and that value is returned immediately.  Instead you should have the following <code>then</code> callback handle each result:</p><pre><code>exports.quarter = functions.https.onRequest((req, res) =&gt; { let user1 = admin.database().ref('users/user1/userDetails').once('value'); let user2 = admin.database().ref('users/user2/userDetails').once('value'); let user3 = admin.database().ref('users/user3/userDetails').once('value'); let user4 = admin.database().ref('users/user4/userDetails').once('value'); return Promise.all([user1, user2, user3, user4]);}).then(data =&gt; {  // data will be an array of all the results. Handle them here. })});</code></pre>
+__label__Artificial Intelligence	RT @jose_garde: What is Artificial Intelligence | Artificial Intelligence Tutorial For Beginners by @edurekain #ai https://t.co/zS4mzwKFzK...
+__label__nan	and deployments ÛÓ bases on earlier mentioned use-cases.
+__label__nan	Learning](https://www.amazon.com/gp/product/0262035618/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zeroequalsfal-20&creative=9325&linkCode=as2&creativeASIN=0262035618&linkId=84568d05237b805c578061aed460c18f)
+__label__nan	params={'coinId': crypto_currency_coin_id, #coinId=7605
+__label__nan	underÛ and overÛreporting of symptoms. An objective test is lacking. We have
+__label__nan	It can be used in complex situations to find out answers which may be
+__label__nan	'https://min-api.cryptocompare.com/data/histohour',
+__label__Artificial Intelligence	Where is Artificial Intelligence today? - Artificial Intelligence (AI) i https://t.co/HunxTwQWsE #ai
+__label__Artificial Intelligence	Artificial Intelligence Weekly - Artificial Intelligence News #99 - Feb 28th 2019 https://t.co/SRdUs8LCD9... https://t.co/eHKzphz7EV
+__label__nan	organization as well. So, for instance, in health care weÛªre seeing a lot of
+__label__nan	18
+__label__Artificial Intelligence	RT @into_AI: Where is Artificial Intelligence today? - Artificial Intelligence (AI) i https://t.co/HunxTwQWsE #ai
+__label__Cloud	I don&#39;t think so, as of now it&#39;s not possible to setup your own remote machine for cloud builds.
+__label__nan	
+__label__Cloud	NASCAR Selects AWS as its Preferred Cloud Computing, Cloud Machine Learning, and Cloud ... - ... chosen AWS as https://t.co/cOTcMJ52JH #ai
+__label__nan	**Paul Daugherty:** Yeah, we started this about two-and-a-half years ago when
+__label__nan	people to manage the algorithms. And those arenÛªt isolated incidents. I think
+__label__Cloud	<p>How do I arrange my tasks according to the level of prioritization I set? That is, the tasks in the first rows will have the highest priority level, then high-priority tasks will be displayed, and so on.</p><p>I created a filter that arranges the tasks according to the level of prioritization, but in practice, it seems that it does not inconsiderate the filter's Order By.I also changed the type of issue to Story, but the task remained in the same position.</p>
+__label__nan	real or artificial, and the scene is decomposed into separate objects in
+__label__Artificial Intelligence	Artificial Intelligence is the future
+__label__nan	
+__label__nan	people must analyze large amounts of data.
+__label__nan	the box in which the agent is or the moment of the game in which it is. The
+__label__Artificial Intelligence	Artificial Intelligence for the Perplexed Executive - Stanford Report: Artificial Intelligence for the Perplexed Ex... https://t.co/9vY18IiY4u
+__label__Cloud	NASCAR Selects AWS as Its Preferred Cloud Computing, Cloud Machine Learning, and Cloud Artificial Intelligence Prov... https://t.co/hPjfhfeSFj
+__label__nan	 
+__label__nan	behave in the right way, to operate the right way, to have the right answers,
+__label__nan	auth.authenticate_user() # authentication on Google Cloud 
+__label__nan	comprehensive document. I also mentioned it in this yearÛªs Address to the
+__label__Cloud	RT @enlumeinc: Choose the right cloud model and the right cloud architecture for successful cloud migration. @enlumeinc #AWS #cloudenableme...
+__label__Cloud	<p>Inside your <code>sendOrdEmail</code> function, you're attempting to use the keyword <code>await</code>, but the function isn't declaring as <code>async</code>.</p><p>You'll want to change the function define line as:</p><pre><code>exports.sendOrdEmail = functions.database.ref('/shop_orders/{uid}/{pushid}')    .onCreate(async (snapshot, context) =&gt; {</code></pre><p>You'll also need to make sure you're using the NodeJS 8 runtime to support this keyword.</p>
+__label__nan	import requests # for API request to cryptocompare.com
+__label__Artificial Intelligence	RT @into_AI: Using Artificial Intelligence to Predict Mortality - Artificial intelligence has th https://t.co/e4zD1O4POS #ai
+__label__nan	edge. Today, Russia boasts one of the worldÛªs highest penetration rates for
+__label__Cloud	No component trading, sales, deals or price check posts.
+__label__Artificial Intelligence	RT @into_AI: eHealth and Artificial Intelligence - Artificial intelligence is cha https://t.co/iRJ1YIwTCx #ai
+__label__nan	Prepare final data with NEXTCLOSE column (as csv) for AutoML and copy to
+__label__nan	experts consider it to be one of the four pillar stones for our next step in
+__label__nan	going to analyze them more in detail.
+__label__Artificial Intelligence	Artificial intelligence sheds new light on cell developmental dynamics - EurekAlert: Artificial intelligence sheds... https://t.co/hQUKalN1u4
+__label__nan	been avoided in this case, but could also be another direction since AutoML
+__label__nan	if to_timestamp is not None:
+__label__Artificial Intelligence	No petitions, surveys, or crowdfunding
+__label__nan	
+__label__Artificial Intelligence	Vulnerability of Artificial Intelligence in the Cybersecurity Landscape - Artificial intelligence (AI) c https://t.co/utYNPYS9jZ #ai
+__label__nan	a result, one of several things can happen when learning new tasks, systems
+__label__nan	In order to achieve such an ambitious goal in AI technology, we are
+__label__nan	talent and attract the best professionals from all over the world. There are
+__label__nan	
+__label__nan	Recognition which is the ability of a computer to understand what you say, and
+__label__Cloud	"<p>I'm setting up Spring Cloud on AWS ECS but I have a problem with Zuul/Eureka. When I'm trying to hit endpoint ""/api/second/service2"" I see this error:</p><h2>Caused by: com.netflix.client.ClientException: Load balancer does not have available server for client: service2</h2><p>I'm using Elastic IP for Eureka instance as explained here <a href=""https://github.com/Netflix/eureka/wiki/Deploying-Eureka-Servers-in-EC2"" rel=""nofollow noreferrer"">https://github.com/Netflix/eureka/wiki/Deploying-Eureka-Servers-in-EC2</a> . I have 2 spring boot applications, and I see both of them in Eureka. I'm able to hit endpoint directly. <img src=""https://i.imgur.com/qn6slmV.png"" alt=""eureka""></p><p>This is config for Eureka server:</p><pre><code>server:  port: 8761eureka:  client:    fetchRegistry: false    registerWithEureka: false    eurekaServerURLContext: eureka    region: eu-west-3    eurekaServerPort: 8761    useDnsForFetchingServiceUrls: true    eurekaServerDNSName: my.dns  datacenter: cloud</code></pre><p>Service2:</p><pre><code>spring:  application:    name: service2server:  port: 8882eureka:  datacenter: cloud  instance:    preferIpAddress: true  client:    fetchRegistry: true    eurekaServerURLContext: eureka    region: eu-west-3    eurekaServerPort: 8761    useDnsForFetchingServiceUrls: true    eurekaServerDNSName: my.dns</code></pre><p>Zuul:</p><pre><code>pring:  application:    name: api-gatewayserver:  port: 8080eureka:  datacenter: cloud  client:    fetchRegistry: true    eurekaServerURLContext: eureka    region: eu-west-3    eurekaServerPort: 8761    useDnsForFetchingServiceUrls: true    eurekaServerDNSName: my.dnszuul:  prefix: /api  routes:    first-service:      path: /first/**      serviceId: service1    second-service:      path: /second/**      serviceId: service2</code></pre><p>Do you have any idea where can be the problem?</p>"
+__label__nan	#### More great stories from WIRED
+__label__Artificial Intelligence	CMS Announces Artificial Intelligence Health Outcomes Challenge - Lexology: CMS Announces Artificial Intelligence H... https://t.co/pU84M9ZQ7W
+__label__nan	 **What Is Intelligence?**
+__label__nan	
+__label__nan	
+__label__nan	university](https://www.ft.com/content/9378e7ee-5ae6-11e9-9dde-7aedca0a081a)
+__label__nan	experience in various areas of investment business,Û added Putyatinsky.
+__label__nan	credit cards and smartphones are not needed for more seamless payments through
+__label__nan	client = bigquery.Client(project=project_id) #
+__label__nan	4\. There may be some technology to connect the human brain with machines.
+__label__nan	jobs that no one has done before. No one has ever trained to be an AI trainer.
+__label__Artificial Intelligence	This video is the product of Dessa Engineers, Hashiam Kadhim, Joseph Palermo,
+__label__nan	
+__label__nan	 **How would you define Artificial Intelligence?**
+__label__nan	[**University of Nottingham**](http://www.nottingham.ac.uk). _Note: Content
+__label__nan	antisemitism over the Dreyfus Affair in an open letter published in _LÛªAurore_
+__label__nan	And weÛªre riding this machine.
+__label__Cloud	"""From Cloud to Cloud Intelligence"" -- Alibaba Cloud Outlines Strategic Upgrade after a Decade of Success... https://t.co/dK2HNpb2AA"
+__label__Artificial Intelligence	rt @fortivus Building Artificial Intelligence That Can Build Artificial Intelligence #ArtificialIntelligence... https://t.co/6JTG56eeMU
+__label__nan	
+__label__nan	neuroscientist at San Diego State University in California.
+__label__Cloud	"<p>When attempting to deploy a simple function, I am running into a 403 error. Here is my full yaml:</p><pre><code>steps:# Install Dependencies- name: 'python'  id: Pip install  args: ['pip3', 'install', '-r', 'requirements.txt', '--user']# Run Tests- name: 'python'  args: ['python3', '-m', 'pytest', 'functions/folder_a/test/']# Deploy Cloud Functions- name: 'gcr.io/cloud-builders/gcloud'  id: 'helloFunction'  args: ['functions', 'deploy', 'hello', '--source' , 'functions/folder_a/main.py',           '--runtime' , 'python37' ,'--trigger-http']</code></pre><p><a href=""https://i.stack.imgur.com/2lAYr.png"" rel=""nofollow noreferrer""><img src=""https://i.stack.imgur.com/2lAYr.png"" alt=""Log""></a></p><p>Step one finishes fine but step two errors here. </p><pre><code>$ gcloud infoAccount: [projectname@appspot.gserviceaccount.com]Project: [projectname]Current Properties:  [core]    project: [projectname]    account: [projectname@appspot.gserviceaccount.com]    disable_usage_reporting: [True]</code></pre><p>I tried adding the following permissions to the above account in IAM:</p><ul><li>Cloud Build Service Agent </li><li>Cloud Functions Developer </li><li>Cloud Functions Service Agent </li><li>Editor</li></ul><p>When Google Build is running, which service account is it using? How can I change the permissions to allow automatic deploying of functions?</p>"
+__label__nan	
+__label__nan	 **2**. **More accurate work** : AI eliminates the compulsion of human
+__label__nan	Although they have known each other for than 30 years, Bengio, Hinton and
+__label__nan	The possibility of AGI manifesting in the 21st century is low, but still an
+__label__nan	We avoid it usually, anybody who does the math usually calls it machine
+__label__nan	have designed a device that can transform brain signals into speech.
+__label__nan	
+__label__nan	that uses [voice
+__label__Cloud	Cloud Analysis | Overview of Cloud Computing https://t.co/pNC0nBiuRq @LinkedInEditors  #CloudComputing #IT
+__label__nan	already being used to hack us in multiple ways, from us gifting our data and
+__label__nan	proved](https://www.wired.co.uk/article/deepmind-starcraft-results-alphastar)
+__label__Cloud	Deep Dive: Accelerate Your Cloud Migration with VMware Cloud on AWS https://t.co/xtv66763tT
+__label__Artificial Intelligence	Will Artificial Intelligence Help Improve Prisons? - Pacific Standard: Will Artificial Intelligence Help Improve Pr... https://t.co/pev9brBn5y
+__label__Cloud	I&#39;m Node Js developer don&#39;t know about SAP Cloud foundry. But I need to connect  ABAP System with using the cloud connector. I need to make the API connectivity with destination concept. Can you give any sample code for that.
+__label__nan	become more pronounced in the 2030s, their approach to ethics in AI will begin
+__label__nan	dinner. Wolf, for instance, parlayed the success of her 1991 book _The Beauty
+__label__nan	"MIT researchers develop ""Proxyless n... https://t.co/Dk7Aeo8NBz"
+__label__nan	understanding the words.
+__label__Cloud	Cloud Secrets: JEDI Cloud Contract Stirs Controversy, LA Moves to the Cloud + morehttps://t.co/13x4nBYKdE... https://t.co/N9xChtCNb2
+__label__nan	
+__label__nan	technology that need to be continually configured and rearranged to meet the
+__label__nan	baseline skills to operate in this environment ÛÓ and do more to make sure that
+__label__nan	
+__label__nan	
+__label__Cloud	<p>This should be fairly straight forward to explain. There are two concerns here:</p><ul><li>Spring Cloud Gateway</li><li>Spring Security (LDAP)</li></ul><p>Think of the gateway segment is like any other part of a web-application. Don't so much worry about that part.</p><p>As far as getting spring-security + LDAP, you'll have to get that part worked out and configured as per your requirements then just make sure that the spring-cloud-gateway functionality is caught underneath the authentication filter.</p><p>If you're using spring-boot, probably would need the starters for sgc and spring-security. They should be fairly well documented and straight forward to configure.</p><p>The LDAP functionality in spring-security is very mature and should be easy enough to configure with little effort. Most of the functionality underpinning that (LDAP) is all implemented via the JRE.</p>
+__label__nan	described their speech-decoding device in a study1 published on 24 April in
+__label__nan	believe is that every organization needs to look at learning as a core
+__label__nan	
+__label__Cloud	<p>I read many articles and solutions regarding scheduling queries to external storage places in Google Big Query but they didn't seem to be that clear.</p><p>Note: My company has subscription only to Google Big Query and not to the complete cloud Services (Google Cloud Platform).</p><p>I know how to do it manually but I am looking to automate the process since I need the same data every week. </p><p>Any suggestions will be appreciated. Thank you.</p>
+__label__Cloud	Komiser is an open source project that allow you to identify potential costsavings on public cloud by uncovering inefficient usage of cloud resources. Itsupports so far AWS and GCP. You can also detect potential vulnerabilitiesthat could put your cloud environment at risk.  GitHub: <https://github.com/mlabouardy/komiser>
+__label__nan	åá **Machine Learning** : It is an application of AI which gives the ability to
+__label__Cloud	VMware Integrates Cloud Foundation with VxRail, Expands Its AWS Cloud https://t.co/HSIttIgexh
+__label__nan	will-step-up-use-of-AI-in-investment-bank) is not always smooth. There are
+__label__nan	#AIT...
+__label__nan	branded individualism at the expense of collective action, the public
+__label__nan	---|--- 
+__label__nan	is repetitive, it likely wonÛªt exist in 2030 or 2035. The retail cashier and
+__label__nan	(defenestration) and decried the lack of fact-checkers in publishing (fact:
+__label__nan	International ÛÒ the institute that also invented Siri ÛÒ to yield a total of
+__label__nan	
+__label__nan	professionalized, specialized, and insular, producing experts with less
+__label__Cloud	<p>The root cause of this issue is that this cloud based mysql service only runs on one CPU Core</p>
+__label__Artificial Intelligence	RT @SuriyaSubraman: Artificial intelligence is selecting grant reviewers in China - https://t.co/TcznEtbuWn: Artificial intelligence is sel...
+__label__nan	
+__label__Cloud	RT @AINewsFeed: NASCAR Selects AWS as its Preferred Cloud Computing, Cloud Machine Learning, and Cloud Artificial ... https://t.co/jcGTumpm...
+__label__nan	command of the U.S. Army Futures Command.
+__label__nan	deny-you-credit-73259), such as [falsely determining that African Americans
+__label__nan	
+__label__nan	
+__label__Cloud	<p>I have a cv::Mat array of 3D points which are representing my point cloud which I reconstructed earlier in my code. I am working on Android through the JNI in c/c++ code. Now, I would like to represent this point cloud to the user on my app's screen. Is there a way to do that with VTK or OpenGL or some other framework/tool. Is there some tutorial or link I could follow, because I haven't found anything on the Internet.Also, a suitable alternative would also be if I could load an .ply file and render it on app's screen because for now I am saving my point cloud to .ply fie and viewing it with Meshlab.</p>
+__label__nan	and cats in images that the algorithm has never seen before. Not only in
+__label__nan	Artificial intelligence for IT operations, or AIOps, c... https://t.co/9Cmb8MRrHm
+__label__nan	In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen 
+__label__Cloud	Cloud Security https://t.co/PonEJk1pB9
+__label__nan	"enormous amount of good affecting hundreds of millions of people,"" Hinton"
+__label__nan	
+__label__nan	#### Reinforcement Learning
+__label__nan	11
+__label__nan	ability to learn new tasks to several other continual learning methods, and
+__label__nan	
+__label__nan	sold the system to banks, and at one point it read about 10 percent of all
+__label__nan	lead to unintended consequences.
+__label__nan	Loosely modeled on the web of neurons in the human brain, a [neural
+__label__nan	American groups. These issues havenÛªt gone away: Digital technology today has
+__label__nan	film making than any deep fake technology.Û In an auction at the end of
+__label__Cloud	@AlexMamo thanks for the tutorial, maybe later I&#39;ll learn more how to use cloud firestore
+__label__Cloud	<p>Are you just looking at the green check mark in the Cloud Console? That merely means that the service is ready to serve traffic. It doesn't mean that an instance is actively provisioned.</p>
+__label__nan	the top figure 2b)_
+__label__Artificial Intelligence	RT @into_AI: How Artificial Intelligence will transform modern workplace - Artificial Intelligence is not https://t.co/uHSEPCDsss #ai
+__label__nan	cheaply than humans and most of the business now use AI for complete their
+__label__nan	awareness of audience engagement, AI is influencing creativity by being
+__label__nan	allowed to do,Û says Mike Cook, an AI researcher at Queen Mary University of
+__label__nan	Photo by [Franck
+__label__Cloud	Cloud Security: Enabling Secure Cloud Deployment https://t.co/AwlCMoIErk #cloudcomputing #cloudsecurity https://t.co/lwbPOrSbxj
+__label__nan	"""architectures"" of the network. "
+__label__nan	FBI, CIA and NSA ÛÒ had set up [expansive domestic surveillance
+__label__nan	
+__label__Artificial Intelligence	Blockchain and Artificial Intelligence work together beautifully.
+__label__nan	extended in several ways ÛÒ **how would you extend it?**
+__label__Artificial Intelligence	When will artificial intelligence exceed human performance? Experts Predict When Artificial Intelligence Will Excee... https://t.co/RpF02bAxHJ
+__label__Cloud	RT @SAPdevs: Leveraging OData, SAP Gateway, SAP Cloud Platform Cloud Connector, SAP Cloud Platform API Management and SAP Cloud Platform Wo...
+__label__Cloud	"<p>I suggest running <a href=""https://github.com/kubernetes-incubator/external-dns"" rel=""nofollow noreferrer"">https://github.com/kubernetes-incubator/external-dns</a> with appropriate cloud provider role (e.g. IAM role in AWS which allows modifying Route53 records). </p>"
+__label__nan	
+__label__nan	Service Owner to validate the content, before sending it out.
+__label__nan	
+__label__nan	tonality, and less activation. Depression symptoms, alcohol use disorder, and
+__label__nan	The Nottingham researchers predict that AI will play a vital part in the
+__label__Cloud	Mainframes: The Cloud Before the Cloudhttps://t.co/zDGeABkeQr#technology #networking #informationtechnology... https://t.co/AjFbV9A0lJ
+__label__nan	preparing Stakeholder notifications and checking in with the Task Force or
+__label__nan	the aid of these systems, Chinese authorities have, according to the U.S.
+__label__nan	Peterson as an example. Ha? The entry is by OrinKerr, who may or may not be (I
+__label__Artificial Intelligence	Artificial Intelligence in Aviation and Travel - CIOReview: Artificial Intelligence in Aviation and Travel  CIORevi... https://t.co/z7Or4YnQnk
+__label__Cloud	<p>Ok , now it's fixed.Turns out it wasn't working because of the header row in the file, once I removed that it worked fine.Pretty annoying, completely misleading error messages about invalid locations and authorization.</p>
+__label__nan	approval to use the tool clinically.
+__label__nan	meeting consumersÛª in-store personalization expectations. ItÛªs very hard to
+__label__nan	
+__label__nan	
+__label__nan	producers and manufacturers have full control of artificial intelligence while
+__label__nan	Extensive studies have shown, that chat based AI already covers approx. 5% of
+__label__nan	next level of specificity ÛÓ the human skills and how we get people ready ÛÓ I
+__label__nan	|
+__label__nan	1
+__label__nan	humans. For example, speech recognition, problem-solving, learning and
+__label__Artificial Intelligence	RT @into_AI: BCW Wins 2019 Artificial Intelligence Excellence Award - Artificial Intelligence driven https://t.co/2Oh5Xf9BFD #ai
+__label__Artificial Intelligence	RT @inter_mkt: Artificial intelligence - See on Wikipedia
+__label__Cloud	Hybrid Cloud adalah hasil kombinasi dari layanan Private Cloud &amp; Public Cloud yang diimplementasikan pada sebuah pe... https://t.co/rtpxcm0A0C
+__label__nan	twitter.html) or groups.
+__label__nan	
+__label__Cloud	If cloud analysts are to be believed, private cloud is losing ground as public cloud providers -- chiefly #Amazon We... https://t.co/j7z0E6o9Kj
+__label__nan	AI isnÛªt just monetizing the internet for Ad-giants like Google, Facebook and
+__label__nan	train a model and look into evaluation. This model aims to predict the next
+__label__Artificial Intelligence	RT @into_AI: Artificial Intelligence and tomosynthesis for breast cancer detection - Artificial Intelligence and to https://t.co/jLn7p2NNUK...
+__label__nan	increasingly literate population of the 18th century was primed to live up to
+__label__nan	source of artificial intelligence expertise and hosts discussions with
+__label__nan	
+__label__nan	
+__label__Artificial Intelligence	RT @into_AI: India's Progress In Artificial Intelligence - OpEd - Artificial Intelligence is the https://t.co/tcnsdHHiOh #ai
+__label__nan	
+__label__nan	#AIT...
+__label__nan	process constrained by what us humans define it as?
+__label__nan	
+__label__nan	Well it is obvious that there are lots of benefits of AI and it has been a
+__label__Artificial Intelligence	First Artificial Intelligence Google Doodle Features Bach - CBS San Francisco: First Artificial Intelligence Google... https://t.co/dFEcvAcpkI
+__label__nan	Credit: Chang lab, UCSF Dept. of Neurosurgery
+__label__Cloud	NASCAR Selects AWS as Its Preferred Cloud Computing, Cloud Machine Learning, and Cloud Artificial Intelligence Prov... https://t.co/urLu1artst
+__label__nan	13
+__label__nan	workers with a mixed-reality headset that helps them understand the job they
+__label__nan	 **Tongue** ÛÓ The sense of taste that extends beyond just food is captured to
+__label__nan	down](https://www.nytimes.com/2012/08/20/business/media/scandal-threatens-
+__label__nan	
+__label__nan	can make it move.
+__label__Cloud	Monthly cloud bill have you wondering why your cloud costs are so high? These three common reasons for cloud cost i... https://t.co/SvOj2tbDos
+__label__nan	
+__label__nan	augments and accelerates scientific work. And as a result of this robot
+__label__Artificial Intelligence	RT @into_AI: Is Artificial Intelligence The Doom of Radiology? - Artificial intelligence (AI) w https://t.co/oNc6zUW3lb #ai
+__label__nan	manage traffic.Û
+__label__nan	of academic conditioning that one training session could allot -- producing
+__label__nan	
+__label__Cloud	"I have not used much the <a href=""https://developers.google.com/apis-explorer/#p/cloudshell/v1alpha1/"" rel=""nofollow noreferrer"">Cloud Shell API</a>, but you could play around with it and see if there&#39;s any way to do what you want. However, I don&#39;t think environments on the Cloud Shell are linked to projects, but rather to users (as shown by the API definitions)."
+__label__nan	<https://www.linkedin.com/pulse/singularity-sankar-s-velayudan/>
+__label__Cloud	NASCAR Selects AWS as its Preferred Cloud Computing, Cloud Machine Learning, and Cloud Artificial Intelligence Prov... https://t.co/7liSmQhZ3O
+__label__nan	In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen 
+__label__Cloud	Deep Dive: Accelerate Your Cloud Migration with VMware Cloud on AWS https://t.co/8J5nT45eND
+__label__nan	**Deploy and Use the AutoML model ÛÒ Batch Mode**
+__label__Cloud	Cloud computing is simply called ÛÏthe cloudÛ, is the delivery of on-demandcomputing resources ( CPU, RAM, Video Card, Network Speeds, Storage, O/S,Software ) everything from applications to information centers to offer fasterinnovation, flexible resources and economies of scale over the internet on apay-for-use basis.  [Check the web article here.](https://techturf.in/what-is-cloud-computing-a-beginners-guide/) **Types of Cloud Computing:**Cloud computing is divided into two categories:  1. Deployment Model  2. Service Model
+__label__nan	ItÛªs just something that happens, like traffic. Is traffic a good thing or a
+__label__nan	In 2016, Google DeepMind's AlphaGo system trounced the worldÛªs reigning
+__label__Cloud	"<p>To hit Firebase API we need some information from Firebase, we need the API URL (<a href=""https://fcm.googleapis.com/fcm/send"" rel=""nofollow noreferrer"">https://fcm.googleapis.com/fcm/send</a>) and unique keys that identify our Firebase project for security reasons. </p><p>We can use this method to send notifications from .NET Core backend:</p><pre><code>        public async Task&lt;bool&gt; SendNotificationAsync(string token, string title, string body)    {        using (var client = new HttpClient())        {            var firebaseOptionsServerId = _firebaseOptions.ServerApiKey;            var firebaseOptionsSenderId = _firebaseOptions.SenderId;            client.BaseAddress = new Uri(""https://fcm.googleapis.com"");            client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue(""application/json""));            client.DefaultRequestHeaders.TryAddWithoutValidation(""Authorization"",                $""key={firebaseOptionsServerId}"");            client.DefaultRequestHeaders.TryAddWithoutValidation(""Sender"", $""id={firebaseOptionsSenderId}"");            var data = new            {                to = token,                notification = new                {                    body = body,                    title = title,                },                priority = ""high""            };            var json = JsonConvert.SerializeObject(data);            var httpContent = new StringContent(json, Encoding.UTF8, ""application/json"");            var result = await _client.PostAsync(""/fcm/send"", httpContent);            return result.StatusCode.Equals(HttpStatusCode.OK);        }    }</code></pre><p>These parameters are:</p><ul><li><strong>token:</strong> string represents a FCM token provided by Firebase on each app-installation. This is going to be the list of app-installations that the notification is going to send.</li><li><strong>title:</strong> ItÛªs the bold section of notification.</li><li><strong>body:</strong> It represents ÛÏMessage textÛ field of the Firebase SDK, this is the message you want to send to the users.</li></ul><p>To find your Sender ID and API key you have to:</p><ul><li>Login to the Firebase Developer Console and go to your Dashboard</li><li>Click on the ÛÏgearÛ icon and access ÛÏproject settingsÛ </li><li>Go to theÛÏCloud Messaging SectionÛ and you will have access to the sender IDand the API Key.<a href=""https://i.stack.imgur.com/ndm8j.jpg"" rel=""nofollow noreferrer""><img src=""https://i.stack.imgur.com/ndm8j.jpg"" alt=""enter image description here""></a></li></ul>"
+__label__Cloud	"<p>The answer given by @g00glen00b did not work exactly as written.  But his suggestion to use an EL expression to pass in a Spring bean to the filter was spot on, and did work, though in a slightly different way.  For reference, in addition to the code I posted above, here is the skeleton of my custom gateway filter class:</p><pre><code>@Componentpublic class AuthorizationFilter implements GatewayFilterFactory&lt;Config&gt; {    private RestTemplate restTemplate;    public AuthorizationFilter(RestTemplate restTemplate) {        this.restTemplate = restTemplate;    }    @Override    public GatewayFilter apply(Config config) {        return (exchange, chain) -&gt; {            // possibly block the request should            // authorization fail, otherwise allow            return chain.filter(exchange);        };    }    // I did not use this class at all    @Override    public Config newConfig() {        return new Config(""AuthorizationFilter"");    }    public static class Config {    // ...    }}</code></pre><p>And here is the <code>application.yaml</code> file I used:</p><pre><code>spring:  cloud:    gateway:      routes:        - id: statusget          uri: http://localhost:8081/          predicates:            - Method=GET            - Path=/status          filters:            - RewritePath=/status, /v2/status            - name: AuthorizationFilter              args:                restTemplate: ""#{@restTemplate}""</code></pre><p>What I observed is that <code>restTemplate</code> bean specified in <code>args</code> above in fact gets injected into the constructor of the custom filter, when there is an incoming request and a new instance of the filter is needed.</p>"
+__label__nan	
+__label__nan	
+__label__Cloud	<p>If you are running ubuntu in AWS Cloud 9. Then from your menu bar->Window->New Terminal->type <code>sudo apt install php-xml</code></p>
+__label__Artificial Intelligence	RT @into_AI: How Artificial Intelligence Could Humanize Healthcare - Using artificial intelligence https://t.co/iUlUGthk9o #ai
+__label__nan	
+__label__nan	in that sense would be the technician whoÛªs reorganizing and managing the
+__label__nan	
+__label__nan	**Disclaimer:** AAAS and EurekAlert! are not responsible for the accuracy of
+__label__nan	Siri basically integrates two important subspecialties in AI which are: Voice
+__label__Artificial Intelligence	RT @inter_mkt: Artificial intelligence - See on Wikipedia
+__label__Cloud	# Difference between Sales Cloud and Service Cloud Sales Cloud **Sales Cloud*** ÛÏSales CloudÛ refers to the ÛÏsalesÛ module in [Salesforce.com](http://salesforce.com/)  * It includes Leads, Accounts, Contacts, Contracts, Opportunities, Products, Price books, Quotes, and Campaigns (limits apply).   * It includes features such as Web-to-lead to support online lead capture, with auto-response rules.   * It is designed to be a start-to-end setup for the entire sales process; you use this to help generate revenue. **Service Cloud***ÛService CloudÛ refers to the ÛÏserviceÛ (as in ÛÏcustomer serviceÛ) module in [Salesforce.com](http://salesforce.com/).   * It includes Accounts, Contacts, Cases, and Solutions.   * It also encompasses features such as the Public Knowledge Base, Web-to-case, Call Center, and the Self-Service Portal, as well as customer service automation (e.g. escalation rules, assignment rules).   * It is designed to allow you to support past, current, and future clientsÛª requests for assistance with a product, service, billing, etc; you use this to help make people happy.   * The differences between Sales Cloud and Service Cloud are the same across each ÛÏeditionÛ (ÛÏprofessionalÛ, ÛÏenterpriseÛ and ÛÏunlimitedÛ), mainly outlined above.   * The differences, as you can gather from the prior paragraphs, is that each cloud is designed to support a specific set of features that you would use to sell services and products, and support those services and products (respectively).The main differences you will find are the limits between each edition.Professional Edition provides basic functionality; you can create limitedcustomized UI pages (Visualforce), and you can use standard automation (e.g.assignment, escalation, and auto-response rules).  Enterprise Edition provides additional features, including custom automation(e.g. workflow rules, Apex Code), improved Visualforce functionality,integration (API) access, generally increased limits, and additionalcustomization features (e.g. more fields per object). Unlimited Edition is anextension of Enterprise Edition and includes more storage space, premiersupport, more objects, increased API limits, and so on.
+__label__nan	and senior fellow while LeCun is chief AI scientist at Facebook. Bengio
+__label__Artificial Intelligence	Artificial Intelligence Seeing Massive Surge in Education (Campus Technology) - Artificial intelligence is mak https://t.co/VqAG40OLwn #ai
+__label__nan	The Integration of Artificial Intelligence and Blockchai... https://t.co/1paVOJN0V1
+__label__nan	
+__label__nan	    2. Go to YouTube.com
+__label__Cloud	RT @VMware_Fr: Accelerez votre migration vers le Cloud avec une infrastructure Cloud hybride transparente. Decouvrez VMware Cloud on AWS. h...
+__label__nan	a single operation.
+__label__nan	efficiency of the vocal tract that allows us to do that,Û he says. And so
+__label__nan	Nio Inc NYSE $NIO Artificial Intelligence
+__label__nan	
+__label__nan	
+__label__nan	identify those with MDD only compared with those with PTSD comorbid with MDD
+__label__nan	vegetables and meat per day.
+__label__nan	is surely a top pick. There is detailed information on building Agents, graph
+__label__nan	
+__label__nan	that people really want, in a more responsible fashion. And those are
+__label__Artificial Intelligence	Artificial Intelligence Colonoscopies - CBS Dallas / Fort Worth: Artificial Intelligence Colonoscopies  CBS Dallas... https://t.co/OWPExl5Odb
+__label__Artificial Intelligence	RT @inter_mkt: Artificial intelligence - See on Wikipedia
+__label__nan	
+__label__nan	
+__label__nan	LEARNING 
+__label__nan	
+__label__nan	
+__label__nan	two seconds before being accused of plagiarizing parts of her book. Her
+__label__nan	   
+__label__nan	algorithms, PromsvyazbankÛªs Tkach said. ÛÏContemporary [machine learning
+__label__Cloud	If you have a way, please let us know whether you are using cloud firestore or realtime database.
+__label__Artificial Intelligence	Blockchain and Artificial Intelligence https://t.co/rpVZI7sNbH
+__label__nan	PTSD](https://futurism.com/artificial-intelligence-detect-ptsd-voice) just by
+__label__Artificial Intelligence	Artificial Intelligence in Retail Banking - Current Applications - Emerj: Artificial Intelligence in Retail Banking... https://t.co/HCY8o0FzY7
+__label__nan	In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen 
+__label__nan	around the city-state. Zimbabwe is creating a [national image
+__label__nan	### Retail is worth $3.8 Trillion in 2019
+__label__nan	everybodyÛªs got the base of skills that [they] need to participate in these
+__label__nan	new PDF document. So you can share a summary report with your friends with a
+__label__nan	Leading the work, Assistant Professor of Epidemiology and Data Science, Dr
+__label__nan	dataset_ref = client.dataset(dataset_id)
+__label__nan	translating them to sound is more easily understood than that produced by
+__label__nan	jobs, how equally and evenly distributed are these roles going to be? Are
+__label__nan	want to make 200 million people change their minds,Û the [ÛÏwriter-heroÛ once
+__label__nan	
+__label__Cloud	<p>Can Spring Cloud Data Flow be used in Spring5 applications - NOT Spring Boot - my current employer seems to view Spring Boot applications as insecure (I've no idea why) in anyway I'd like to try use this stack for an integration project, so is it possible to use it without Spring Boot?</p>
+__label__nan	
+__label__nan	
+__label__Cloud	RT @DigimacT: DIGIMAC Hi-Technologies launches Cloud Innovation Platforms in Pakistan. Cloud Services, IOT Services, Cloud Software Service...
+__label__nan	
+__label__nan	of pixel space. This is where the cutting-edge deep learning methods of the
+__label__Artificial Intelligence	RT @SuriyaSubraman: Artificial intelligence boosts proteome research - https://t.co/nv50OTNDSt: Artificial intelligence boosts proteome res...
+__label__Cloud	RT @srm_up: NASCAR Selects AWS as Its Preferred Cloud Computing, Cloud Machine Learning, and Cloud Artificial Intelligence Provider https:/...
+__label__nan	called Clinician-Administered PTSD Scale, or CAPS, of 53 Iraq and Afghanistan
+__label__Cloud	Hello,  I have a failing HDD and I need to find the best and easiest way to keep mygame saves. I know steam and uplay supposedly have cloud saves but I was toldthat it doeskin actually save your data to the cloud but only a new folder.Whats the best way to save my game data ?. What file name should I be backingup ?. Is there a free cloud save service ?
+__label__nan	10
+__label__nan	study by experts at the University of Nottingham.
+__label__nan	change. There are 2 inflection points in the AI evolution journey (1) ANI to
+__label__nan	**Paul Michelman:** WhatÛªs an example of a title that a sustainer might have
+__label__nan	#AIT...
+__label__nan	
+__label__nan	created at an exponential growth rate. I have said it before and I will say it
+__label__nan	"project_id="""" # the project id you have in google cloud (Web UI)"
+__label__Cloud	RT @DavidGGouin: https://t.co/u2XIPvrMNcVeeam Cloud Connect to Microsoft Azure CloudCertified Veeam Cloud Connect in Microsoft Azure Com...
+__label__nan	artificial, and you canÛªt be sure what you see or hear is real or a
+__label__nan	**Creating a Google Cloud storage bucket to store data**
+__label__nan	featured in the _MIT Sloan Management Review_ article ÛÏThe Jobs That
+__label__nan	
+__label__Cloud	NASCAR Selects AWS as its Preferred Cloud Computing, Cloud Machine Learning, and Cloud Artificial Intelligence Prov... https://t.co/CcwiQfLxhV
+__label__Artificial Intelligence	Finding a Happy Home for Artificial Intelligence in Healthcare - Artificial intelligence in hea https://t.co/wIcgVHBdQt #ai
+__label__Cloud	Hi guys, I am a dev with very noobish experience in devops. If anyone has anyexperience with google cloud I could use some help! Basically I have an APIbeing hosted on google cloud run. Then I have a MySQL database being hosted onSQL cloud. I can not figure out how to tell the DB to request from the API.It says by default all apps within the project are authorized to use thedatabase, but it seems to not be working. I have tried pinging the API andadding it to the db whitelist, but that does not work since the ip changes. Ifanyone has experience with these google cloud products, that would be amazing.Thanks!BTW just need to be pointed in the right direction, then I can go do my ownresearch on it
+__label__nan	behind the Turing Award.
+__label__nan	In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen 
+__label__nan	In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen 
+__label__Artificial Intelligence	RT @inter_mkt: Artificial intelligence - See on Wikipedia
+__label__nan	
+__label__nan	In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen 
+__label__Cloud	Java-Developer Cloud https://t.co/5vS2C2STeo
+__label__Cloud	"I'm looking for a chromebook-style experience without a chromebook. Just plugin a USB, log in, and bam. All my stuff that I need only for work. Not evenneeding to get to a web browser or anything to log in because the wholeprocess is just that seamless and integrated.  I've seen some FAQs and vids on making CloudReady a ""live"" OS, but... I'mhoping there's one more out-of-the-box that I haven't found in my searches.Because that's what I'd like: ""live"" chrome.  Is that a thing?"
+__label__nan	better than the current standard approach to prediction developed by human
+__label__nan	#AIT...
+__label__nan	Similarly to Ai Build and Yeff, visual artist Anna Ridler is using AI as a
+__label__nan	
+__label__nan	the studyÛªs authors. ÛÏBut the bad news is that to achieve that, you have to
+__label__nan	'hospital episodes' statistics. We found machine learned algorithms were
+__label__Artificial Intelligence	Artificial Intelligence Software Architectures and Algorithms - The Artificial Intelligence (A https://t.co/6DVTgZdIgX #ai
+__label__nan	#AIT...
+__label__nan	offering a new path that is designed especially for government agencies.
+__label__Artificial Intelligence	Building a Modern Enterprise with Artificial Intelligence - Use of artificial intelligence https://t.co/lcEGiK9D7O #ai
+__label__nan	develop robotic applications, such as intelligent maneuver and learning to
+__label__Artificial Intelligence	RT @nigewillson: Using Artificial Intelligence to Make Better Artificial Intelligence https://t.co/wyZJwJ1Ujr #ArtificialIntelligence #ai h...
+__label__nan	  * It takes just[ 3.7 seconds of audio to clone a voice](https://motherboard.vice.com/en_us/article/3k7mgn/baidu-deep-voice-software-can-clone-anyones-voice-with-just-37-seconds-of-audio).
+__label__Cloud	*Just Store Your Cryptos in Cloud Wallet &amp; Earn Daily 0.3% aprox Cloud TokensCLOUD TOKEN 4th Generation Blockchain... https://t.co/XhGozwx3cY
+__label__nan	export-policing-dissidents-1139230) ÛÒ which announced the establishment of a
+__label__Artificial Intelligence	Artificial intelligence improves power transmission - EurekAlert: Artificial intelligence improves power transmissi... https://t.co/G3GygypfUg
+__label__nan	requiring of diverse voices than ever before.Û Diversity rarely got past the
+__label__nan	
+__label__nan	
+__label__Artificial Intelligence	Artificial intelligence better than humans at predicting premature death: Study - kwbe: Artificial intelligence bet... https://t.co/crVE3dPZHX
+__label__nan	publication for AI).
+__label__nan	Fourth. We need to build an efficient legal regulation for data circulation,
+__label__nan	despite ÛÏ[stripping
+__label__Artificial Intelligence	RT @jose_garde: What is Artificial Intelligence | Artificial Intelligence Tutorial For Beginners by @edurekain #ai https://t.co/zS4mzwKFzK...
+__label__Cloud	"<p>By doing <code>exports.firstTest = functions.database.ref('first').onWrite()</code> you trigger your <code>firstTest</code> Cloud Function when data is created, updated, or deleted in the Realtime Database. It is called a <strong>background trigger</strong>, see <a href=""https://firebase.google.com/docs/functions/database-events?authuser=0"" rel=""nofollow noreferrer"">https://firebase.google.com/docs/functions/database-events?authuser=0</a></p><p>With this trigger, everything happens <code>in the back-end</code> and you do not have access to a Request (or a Response) object. The Cloud Function doesn't have any notion of a front-end: for example it can be triggered by another back-end process that writes to the database. If you want to detect, in your front-end the result of the Cloud Function (for example the creation of a nee node) you would have to set a listener to listen to this new node location. </p><hr><p>On the other hand, if you want to call your function through an HTTP request (possibly from your front-end) and receive a response to the HTTP Request, you need to use another type of Cloud Function, the <strong>HTTP Cloud Function</strong>, see <a href=""https://firebase.google.com/docs/functions/http-events"" rel=""nofollow noreferrer"">https://firebase.google.com/docs/functions/http-events</a>. See also the other type of Cloud Function that you can call directly: the <a href=""https://firebase.google.com/docs/functions/callable?authuser=0"" rel=""nofollow noreferrer"">Callable Cloud Functions</a>.</p><hr><p>Finally, note that:</p><ul><li>With <code>.onWrite( event =&gt; {})</code>, you are using the old syntax, see <a href=""https://firebase.google.com/docs/functions/beta-v1-diff?authuser=0"" rel=""nofollow noreferrer"">https://firebase.google.com/docs/functions/beta-v1-diff?authuser=0</a></li><li>The Firebase video series on Cloud Function is a good point to start to learn more on all these concepts, see <a href=""https://firebase.google.com/docs/functions/video-series?authuser=0"" rel=""nofollow noreferrer"">https://firebase.google.com/docs/functions/video-series?authuser=0</a></li></ul>"
+__label__nan	competitions where students are given just minutes to prepare their arguments,
+__label__Cloud	Accelerate your cloud migration with a seamless hybrid cloud infrastructure. Discover VMware Cloud on AWS.... https://t.co/o3AncIGGQ0
+__label__nan	skills that have already been trained. For instance, while conducting an urban
+__label__nan	problems understanding decisions made by AI,Û he added.
+__label__nan	
+__label__nan	national jurisdiction. I want to repeat that it is important to lift
+__label__Cloud	Cloud Comparison Tool To Simplify Cloud Provider Decision-Making Process -- Virtualization Review... https://t.co/m1DCBcjl4q
+__label__Cloud	"<p>I'm building a web app using Angular for the frontend and Cloud Functions for backend stuff. Also using Firebase Authentication to register and login users. To persist data I'm using Cloud Firestore.</p><p>The register part is used on Cloud Functions. There I call admin.auth().createUser() to set the user credentials for the Auth user as well as for the user document that I add to Cloud Firestore. </p><p>My problem is that I hash the password value on the frontend before the HTTP request to Functions is sent. I do this because of safety reasons. But how can I revert the hash, so I can write the raw password into createUser()?</p><p>Actually I save the hashed password and after that I can't login with the created user, because it's the hashed value.</p><p>My function in Cloud Functions:exports.createUser = async (req, res) => {</p><pre><code>try {    const user = req.body;    console.log(user.password);    const userRecord = await admin.auth().createUser({        email: user.mail,        emailVerified: false,        password: user.password,        displayName: user.firstname + ' ' + user.lastname,        photoURL: ""http://www.example.com/12345678/photo.png"",        disabled: false    }).then(async (userRecord) =&gt; {        console.log(userRecord.password);        console.log(userRecord);        return  await userCollection.doc(userRecord.uid).set({            uid: userRecord.uid,            firstname: user.firstname,            lastname: user.lastname,            photoURL: userRecord.photoURL,            dateOfBirth: user.dateOfBirth,            sex: user.sex,            city: user.city,            activities: user.activities,            offers: user.offers        })      })      console.log(""Successfully created new user:"");      return res.status(200).send(userRecord);    }catch (error) {    console.log(""Error creating new user:"", error);        return res.send(false);}</code></pre><p>The hashing on the frontend looks like this (using ts-md5):</p><pre><code> password: Md5.hashStr(this.registerForm.value.registerFormPassword)</code></pre><p>Is there a method to reverse the hash or a method from Firebase Auth to hash the password on the client side and a counterpart to revert it on the server side? </p><p>I searched the internet for answers but can't find anything to this topic, so could it be that this is absolutely the wrong way with hashing the password? And if so, what's good practise in such cases?</p>"
+__label__nan	18
+__label__nan	house competences.
+__label__Artificial Intelligence	RT @into_AI: Artificial intelligence and medicine: Is it overhyped? - Artificial intelligence raises https://t.co/S7I0mv1LTR #ai
+__label__nan	#AIT...
+__label__nan	!generate-schema bitcoindata.json > bitcoindata.schema
+__label__nan	produced an algorithm that created thousands of notional tulip varieties with
+__label__nan	The friendly female voice-activated assistant interacts with the user on a
+__label__nan	frequently. While this may not seem like a dangerous issue or threat to
+__label__nan	
+__label__nan	
+__label__Artificial Intelligence	Artificial Intelligence #AI #IoT https://t.co/UBIcjODn7J
+__label__nan	In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen 
+__label__nan	For instance, the Chinese government has used AI in wide-scale crackdowns in
+__label__nan	Another major Russian lender, Rosbank, uses AI for processes involving [risk
+__label__nan	and speculation about the development of humanity, technology, and
+__label__nan	[sold](https://www.livescience.com/63929-ai-created-painting-sells.html) for
+__label__nan	including social media posts, text messages, emails and phone calls ÛÒ more
+__label__nan	# Artificial Intelligence in Retail
+__label__nan	
+__label__Cloud	I need help with a complex (for me) multi server setup with PostgreSQL.I have to setup a Cloud Server and 3 Local Servers for our company. **Each Server will have:**  Users will normally connect to the Cloud instance for work.  But if the Cloud is down, users need to access local on each location.How can i realize this scenario?  What should i use for PostgreSQL replication or sync?  Thanks in advanceKevin[Cloud <> Local Setup Image](https://i.stack.imgur.com/8iafS.jpg)
+__label__Artificial Intelligence	No petitions, surveys, or crowdfunding
+__label__nan	
+__label__Cloud	7 cloud computing myths, debunked: https://t.co/Mi4XDEU4dQLooking for Cloud Services? Visit... https://t.co/nMa9EKBC0x
+__label__nan	while num_results &lt;= min_num_results:
+__label__Cloud	"<p>I am using Cloud Functions to handle read/write to Cloud Firestore on the server side. The Cloud Functions are triggered by clients in the web app using HTTPS callable function.</p><p>When calling a Cloud Functions using HTTPS, there is a parameter sent from the client call ""context"" that carries user auth information. For example, a Cloud Functions on the server can look like this:</p><pre><code>// Saves a message to the Firebase Realtime Database but sanitizes the text by removing swearwords.exports.addMessage = functions.https.onCall((data, context) =&gt; {  // ...});</code></pre><p>However, since <code>context</code> is passed by the client, and the client could pass in a manipulated ID token, do I need to always perform a ID token verification before trusting and using something like <code>context.auth.uid</code> to interact with my database?</p><p>The ID token verification I am talking about is this:</p><pre><code>// idToken comes from the client appadmin.auth().verifyIdToken(idToken)  .then(function(decodedToken) {    var uid = decodedToken.uid;    // ...  }).catch(function(error) {    // Handle error  });</code></pre><p>Essentially, I want to know if Firebase performs ID token verification automatically when passing <code>context</code> using https call and therefore I can go ahead and trust that if the client has manipulated <code>context</code>, the https call will fail due to token verification failing. Or, do I need to explicitly do a manual ID token verification on the server every single time to check the integrity of <code>context</code>, since the client can easily insert a manipulated token using the browser's devtools or something like that.</p>"
+__label__nan	moving their mouth?Û
+__label__nan	Some believe with regards to AI in retail that AI will have its biggest impact
+__label__nan	teamÛªs AI program sifted through for patterns.
+__label__nan	and we didnÛªt initially see these three job categories, but when we started to
+__label__nan	
+__label__nan	few? What is this going to look like at scale?
+__label__nan	
+__label__nan	! bq load \--source_format NEWLINE_DELIMITED_JSON \
+__label__nan	companies. ItÛªs going to be differentiating for those who can get it right.
+__label__nan	have large categories of people employed in things like search engine
+__label__nan	
+__label__Cloud	"<p>At this time, setting the SSL Policy for Cloud SQL is not supported.</p><p>Google Cloud supports SSL policies: <a href=""https://console.cloud.google.com/net-security/sslpolicies/"" rel=""nofollow noreferrer"">https://console.cloud.google.com/net-security/sslpolicies/</a></p><p>However, at this time, SSL policies are only supported for Load Balancers and SSL Proxies. SSL policies do not yet support Cloud SQL.</p><p>I am not sure what you mean by a firewall rule. Access to Cloud SQL is via whitelisted IP addresses or Cloud SQL Proxy. You should not, without good reason, be opening Cloud SQL to the whole world.</p><p>At this time, I am not aware of a method to change port numbers. Did you mean port 3306 instead of 3307?</p><p>For PCI compliance, I would not use a public IP address and instead, I would use <a href=""https://cloud.google.com/sql/docs/mysql/sql-proxy"" rel=""nofollow noreferrer"">Google Cloud SQL Proxy</a>.</p>"
+__label__Artificial Intelligence	Investing in Artificial intelligence - What Investment: Investing in Artificial intelligence  What Investment AI is... https://t.co/FiFzyvVEPI
+__label__nan	
+__label__nan	(tedious) manual work. Tools automation can make AI available to more people
+__label__nan	to Natarajan in her opening remarks. ÛÏWelcome to the future.Û
+__label__nan	[Pattern Recognition and Machine Learning (Information Science and
+__label__nan	Jordan Peterson, Fareed Zakaria, and Jill Abramson. Their minds have hijacked
+__label__nan	irregularities or other things in the data. In other words, shred and analyze
+__label__Artificial Intelligence	RT @inter_mkt: Artificial intelligence - See on Wikipedia
+__label__Artificial Intelligence	Ethics Guidelines for Artificial Intelligence - Lexology: Ethics Guidelines for Artificial Intelligence  Lexology A... https://t.co/dfXpzpGV12
+__label__nan	The memristor array has been developed at the Clean Room of the Center for
+__label__Cloud	<p>Does someone know how to manage multi-language in react native firebase cloud messaging?</p>
+__label__nan	balanced solutions that will allow using data for developing AI algorithms.
+__label__nan	In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen 
+__label__nan	into a direct appeal to the public: Observational wisdom became intellectual
+__label__Cloud	<p>I have created a SAS in Alibaba cloud with ghost template as the image for SAS. I have also created a domain name on domain.com and now I am trying to configure the domain name to the ghost app running on SAS. But when I add the domain name the Resolution Status for this domain still shows as Unresolved. The below error message is displayed on the top of the console.</p><blockquote>  <p>Domain name, which uses Alibaba Cloud DNS, can be resolved here directly. Other domain should be resolved manually with corresponding DNS service provider.</p></blockquote><p>I have also added the domain name on Alibaba Cloud DNS so I am not sure why this is still not getting resolved. Any help will be much appreciated.</p>
+__label__nan	agent by the decision made.
+__label__Artificial Intelligence	RT @into_AI: Artificial Intelligence Beyond Deep Neural Networks - Artificial intelligence (AI) i https://t.co/usYNGtWyGJ #ai
+__label__nan	#AIT...
+__label__Cloud	Hybrid Cloud Management: Running Cloud and On-Premise Environments https://t.co/YWgK27B1K1 #Cloud #HybridCloud
+__label__nan	work was done while Li was a summer intern at Salesforce AI Research. 
+__label__nan	daily routine. She assists us to find information, get directions, send
+__label__nan	 
+__label__nan	
+__label__nan	 **3\. Google search ÛÏDid you meanÛ**
+__label__Cloud	"<p>The idea is to either generate an HTTP request directly to firebase via a URL sent in the email, or to do it through React. </p><p>You could send them to the URL <code>example.com/verify/USER_DOC_ID</code></p><p>Assuming you use <code>react-router-dom</code>, and you want to use the web firebase API to avoid creating an HTTP request, you would do something like the following in your React component (this also assumes you are using firestore in React correctly):</p><pre><code>import React, {Component} from 'react':import firestore from './firestore'; //this is your config fileimport {withRouter} from 'react-router-dom';class Verify extends Component {    componentDidMount(){        const {pathname} = this.props.location;        const ID = pathname.split('/')[2];        //DO THE FIREBASE UPDATE HERE     }     render(){...}export default withRouter(Verify);</code></pre><p>Now, you have a few options for where I placed <code>//DO THE FIREBASE UPDATE HERE</code>. You can either create an http request to firebase, or you can use web side firebase. If you're using web side firebase, you would just update the document in firebase (note that you wouldn't need to import firestore in react if you are doing a fetch request.)</p><p>the react way involves something like this:</p><pre><code>const ref = firebase.firestore().collection('newsletter').doc(ID);ref.get().then((doc) =&gt; {    if(doc.exists()){        ref.update({verified: true});  });</code></pre><p>The logic for interacting with firestore is very similar on the backend with the Admin API, however you'll wrap it in an HTTP request in cloud-functions:</p><pre><code>exports.verify = functions.https.onRequest((req, res) =&gt; {  // admin api call with req params or body});</code></pre><p>With the above code you can either navigate directly here from the email, responding with HTML directly, or you can call it via a fetch request in the react app like <code>fetch(""https://example.com/verify/ID"").then(...)</code>.</p><p>If you want more details about any one of the above methods I described, post it as a separate question if you can't find it on SO, let me know, and I'll do my best to answer. </p>"
+__label__nan	
+__label__Cloud	Amazon: NASCAR Selects AWS as Its Preferred Cloud Computing, Cloud Machine Learning, and Cloud Artificial Intellige... https://t.co/NEBXYjQfwO
+__label__nan	Figure 8 ÛÒ select target column and data split (train/validation/testing)
+__label__nan	shifted, e.g. for a time t=0 there is a particular row that require a t=1
+__label__nan	and machine learning. The Turing Test a.k.a. Imitation Game was designed to
+__label__Artificial Intelligence	Artificial Intelligence #AI by @7GTech - Will Artificial Intelligence Enhance or Hack Humanity? | WIRED... https://t.co/HmwVktjyyy
+__label__nan	samples](https://www.nytimes.com/2019/02/21/business/china-xinjiang-uighur-
+__label__nan	0:00 - Introduction
+__label__nan	4
+__label__nan	cities, but it still needs to operate efficiently in a previously encountered
+__label__nan	
+__label__Artificial Intelligence	No petitions, surveys, or crowdfunding
+__label__nan	In computer science, artificial intelligence (AI),... https://t.co/4i3If1SyHx
+__label__nan	intellectual toward a collective model. That includes online activists and
+__label__nan	existential threat to our survival as a species. I donÛªt just mean this in the
+__label__nan	Netflix needs no introduction ÛÓ it is a widely popular content-on-demand
+__label__nan	**James Wilson:** Thank you, Paul.
+__label__nan	substantially helps superiors to understand the quality of work by their
+__label__Artificial Intelligence	RT @inter_mkt: Artificial intelligence - See on Wikipedia
+__label__nan	"json_social_signal_response[""formatted_timestamp""] = formatted_timestamp"
+__label__nan	
+__label__nan	**Outline:**
+__label__nan	#### The Retail Apocalypse Just Means Retail is at the Intersection of Human
+__label__nan	billion revenue for the quarter, up 9% from a year-ago quarter. Visa also beat
+__label__nan	## AI and disinformation
+__label__nan	AI. Weak AI is designed to do some specific tasks, and its most simple example
+__label__nan	## 2\. **Choosing and Building Dataset**
+__label__nan	propagate on the platform. But as I wrote earlier, it is still improving and
+__label__nan	
+__label__nan	research sector: **machine learning** [1].
+__label__Artificial Intelligence	RT @inter_mkt: Artificial intelligence - See on Wikipedia
+__label__nan	If you are a technology geek and dreamt of owning a car like shown in
+__label__nan	interests.
+__label__nan	ÛÏI have heard you hold the world record in debate competition wins against
+__label__nan	data, further validate it on an independent sample, and apply for government
+__label__nan	  * TodayÛªs intelligent assistants are full of skills and they will get much smarter in the 2020s.
+__label__nan	can be seen in companies like Tesla. This will take us to a future in which we
+__label__nan	big show in New York, IBM identified the following six ways the retail
+__label__nan	framework for an American cultural identity ÛÓ distinct from EuropeÛªs ÛÓ which
+__label__nan	
+__label__nan	
+__label__Artificial Intelligence	New study: Artificial Intelligence market forecast 2019-2025 - Global Artificial Intelligence https://t.co/gaDFa1Ys2k #ai
+__label__nan	
+__label__nan	Road Initiative](https://eng.yidaiyilu.gov.cn/), which is funding an extensive
+__label__nan	%%bigquery \--project predicting bitcoindata
+__label__nan	intentions. While the consequences of misusing artificial intelligence or
+__label__nan	www.nature.com/platform/rh/preview/page/nature/brain-implants-that-let-you-
+__label__Artificial Intelligence	Artificial Intelligence Takes on Alzheimer's - Wealth Daily: Artificial Intelligence Takes on Alzheimer's  Wealth D... https://t.co/zg1KfmQyGM
+__label__nan	In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen 
+__label__nan	åá **Robotics** : It consists of designing and building robots which often
+__label__nan	
+__label__nan	Nehisi Coates did when he stepped down last year from his columnist gig at
